@@ -1,8 +1,5 @@
 # ESPC_RPG_TEMPLATE
-Hello, Thanks for viewing this RPG template. This is free to use and was designed for anyone 
-aspiring to make advanced Roblox RPG games. This template works with the Aero Game framework, 
-and is compatible
-with ROJO. 
+Thank you for exploring this RPG template! It’s free to use and tailored for anyone looking to create advanced Roblox RPG games. Compatible with the Aero Game framework and ROJO, this template includes a quest system, spawning system, inventory system, weapon system, special abilities, and can be customized through a tutorial series.
 
 ## Getting Started, Full video breakdowns
 
